@@ -1,0 +1,1 @@
+- The way you run the app is by going to the studentCode.java file and running it from there 
